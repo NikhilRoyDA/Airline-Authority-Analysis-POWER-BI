@@ -51,7 +51,7 @@ Better scheduling and predictive analytics can improve airline operations.
 
 ---
 
-## 📂 Project Files : [Dataset](https://www.worldometers.info/coronavirus/)
+## 📂 Project Files : [Dataset](https://github.com/NikhilRoyDA/Airline-Authority-Analysis-POWER-BI/blob/main/Airline%20Dataset.xlsx)
 
 Here’s what you’ll find in this repository:  
 
