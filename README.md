@@ -45,11 +45,19 @@ Better scheduling and predictive analytics can improve airline operations.
 
 ---
 
-## 📂 Files in This Repository  
+## 📷 Dashboard Preview  
+![Airline Analysis Dashboard Image](https://github.com/user-attachments/assets/a34fab90-2f09-4462-8733-8993bc4f8eb0)
 
-📁 `Case Study 3 - Airline.pbix` → The Power BI dashboard file.  
-📁 `Airline.xlsx` → Raw dataset used for analysis.  
-📁 `README.md` → This file!  
+
+---
+
+## 📂 Project Files : [Dataset](https://www.worldometers.info/coronavirus/)
+
+Here’s what you’ll find in this repository:  
+
+📁 **/Dataset/** – The raw Airline dataset used for analysis  
+📁 **/PowerBI_Dashboard/** – The Power BI `.pbix` file with all visualizations  
+📁 **/Reports/** – Summary of key findings and insights 
 
 ---
 
