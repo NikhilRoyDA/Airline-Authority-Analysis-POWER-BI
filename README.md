@@ -45,11 +45,14 @@ Better scheduling and predictive analytics can improve airline operations.
 
 ---
 
+
+
 ## 📷 Dashboard Preview  
 ![Airline Analysis Dashboard Image](https://github.com/user-attachments/assets/a34fab90-2f09-4462-8733-8993bc4f8eb0)
 
 
 ---
+
 
 ## 📂 Project Files : [Dataset](https://github.com/NikhilRoyDA/Airline-Authority-Analysis-POWER-BI/blob/main/Airline%20Dataset.xlsx)
 
@@ -61,6 +64,7 @@ Here’s what you’ll find in this repository:
 
 ---
 
+
 ## 💡 Lessons Learned  
 
 1️⃣ **Data can tell powerful stories.** Numbers alone don’t mean much, but when visualized, they reveal hidden insights!  
@@ -71,7 +75,7 @@ Here’s what you’ll find in this repository:
 
 ## 🤝 Special Thanks  
 
-This project wouldn’t have been possible without the support of **Akash Raj & the Cloudy team**. Their guidance helped me refine my approach to **data visualization and storytelling**.  
+This project wouldn’t have been possible without the support of **the CloudyML Team**. Their guidance helped me refine my approach to **data visualization and storytelling**.  
 
 ---
 
