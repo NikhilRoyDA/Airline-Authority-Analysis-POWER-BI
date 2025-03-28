@@ -16,7 +16,7 @@ That's how this **Power BI project** was born. 🚀
 ✅ **How do cancellations impact the airline industry?**  
 ✅ **What patterns can we spot to improve airline scheduling?**  
 
-Using **Power BI, SQL, and data visualization**, I analyzed real flight data to uncover insights that could help both passengers and airline companies.  
+Using **Power BI - Data Visualization**, I analyzed real flight data to uncover insights that could help both passengers and airline companies.  
 
 ---
 
@@ -40,7 +40,7 @@ Better scheduling and predictive analytics can improve airline operations.
 
 🔹 **Power BI** – Created interactive visuals for airline performance analysis.  
 🔹 **DAX (Data Analysis Expressions)** – Built custom calculations.  
-🔹 **SQL & Excel** – Cleaned and transformed the raw data.  
+🔹 **Excel** – Cleaned and transformed the raw data.  
 🔹 **Data Storytelling** – Designed the dashboard for clear business insights.  
 
 ---
@@ -75,3 +75,12 @@ If you're passionate about **data analytics, Power BI, or storytelling through d
 - **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)  
 
 💡 Got feedback or ideas? Drop a comment or open an issue—I’d love to hear your thoughts!  
+
+
+
+#️⃣ **Hashtags for Visibility**  
+
+`#PowerBI #DataAnalytics #Excel #DataVisualization #BusinessIntelligence #FlightDelays #DataStorytelling #Dashboard`  
+
+---
+
