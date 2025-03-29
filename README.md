@@ -89,9 +89,6 @@ If you're passionate about **data analytics, Power BI, or storytelling through d
 💡 Got feedback or ideas? Drop a comment or open an issue—I’d love to hear your thoughts!  
 
 
-
-#️⃣ **Hashtags for Visibility**  
-
 `#PowerBI #DataAnalytics #Excel #DataVisualization #BusinessIntelligence #FlightDelays #DataStorytelling #Dashboard`  
 
 ---
